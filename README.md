@@ -63,4 +63,4 @@ The system integrates computer vision, deep learning (SDXL), and hardware contro
 ---
 
 ## Status
-Work in progress – project files and demo will be uploaded soon.
+Project completed as part of academic curriculum. Repository documentation and code structure are being organized for public release.
